@@ -1,3 +1,3 @@
 <?php
- 	echo "Hello XAMPP!!!!";
+ 	echo phpinfo();
  ?>
